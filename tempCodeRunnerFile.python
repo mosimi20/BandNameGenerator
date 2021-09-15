@@ -1,0 +1,5 @@
+print("Welcome to Simi's Band Name Generator")
+cityName = input("What city did you grow up in? ")
+petName = input("Enter the name of your pet: ")
+
+print('Your new band name is: ' + cityName + ' ' + petName)
